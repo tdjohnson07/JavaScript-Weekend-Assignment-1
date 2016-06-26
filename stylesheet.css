@@ -1,0 +1,19 @@
+body{
+  background-color: burlywood;
+}
+
+h1 {
+  color: #800020;
+}
+li{
+  background-color: lightgrey;
+  color: #800020;
+  font-weight: bold;
+  border: 1px solid black;
+  height: 2em;
+  padding: 10px 0 0 0;
+}
+h2{
+  background-color: yellow;
+  font-style: italic;
+}
